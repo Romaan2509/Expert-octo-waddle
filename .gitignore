@@ -1,5 +1,5 @@
-.*.aux
-.*.d
+CHANGELOG.md
+hankoroman2509@gmail.native_compute_profile_.md
 *.a
 *.cma
 *.cmi
